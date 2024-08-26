@@ -1,0 +1,6 @@
+nightbot
+moobot
+phantombot
+coebot
+deepbot
+You can fill and save the blacklist without restarting the program or use !block user in chat.

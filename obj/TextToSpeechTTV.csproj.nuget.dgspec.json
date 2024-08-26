@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bdiaz\\Source\\Repos\\TwitchTTS\\TextToSpeechTTV\\TextToSpeechTTV.csproj": {}
+    "C:\\Users\\bdiaz\\source\\repos\\TwitchTTSPrivate\\TextToSpeechTTV.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bdiaz\\Source\\Repos\\TwitchTTS\\TextToSpeechTTV\\TextToSpeechTTV.csproj": {
+    "C:\\Users\\bdiaz\\source\\repos\\TwitchTTSPrivate\\TextToSpeechTTV.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bdiaz\\Source\\Repos\\TwitchTTS\\TextToSpeechTTV\\TextToSpeechTTV.csproj",
+        "projectUniqueName": "C:\\Users\\bdiaz\\source\\repos\\TwitchTTSPrivate\\TextToSpeechTTV.csproj",
         "projectName": "TextToSpeechTTV",
-        "projectPath": "C:\\Users\\bdiaz\\Source\\Repos\\TwitchTTS\\TextToSpeechTTV\\TextToSpeechTTV.csproj",
+        "projectPath": "C:\\Users\\bdiaz\\source\\repos\\TwitchTTSPrivate\\TextToSpeechTTV.csproj",
         "packagesPath": "C:\\Users\\bdiaz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bdiaz\\Source\\Repos\\TwitchTTS\\TextToSpeechTTV\\obj\\",
+        "outputPath": "C:\\Users\\bdiaz\\source\\repos\\TwitchTTSPrivate\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [

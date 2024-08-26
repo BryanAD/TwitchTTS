@@ -1,0 +1,5 @@
+somebot
+yourself
+yourfavouriteviewer
+etc
+You can fill and save the whitelist without restarting the program.

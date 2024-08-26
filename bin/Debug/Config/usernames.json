@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "youraccount",
+      "nick": "you",
+      "voice": "random",
+      "speakingSpeed": "1",
+      "speakingPitch": "0"
+    },
+    {
+      "name": "myaccount",
+      "nick": "me",
+      "voice": "fr-CA-Wavenet-B",
+      "speakingSpeed": "2",
+      "speakingPitch": "10"
+    }
+  ]
+}

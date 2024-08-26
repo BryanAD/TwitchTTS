@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "splendid-petal-294719",
+  "private_key_id": "f05c583008fcc98f2dbe83ad78e498acd3697be4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4jKf74kNm+oEX\nDM5FIleCTGzXQV3Q524kSfIXwPU8pIYkLjQhYLoeOH/Foq7U5deagYvbOr5c7xsj\n1JaixO8EJk4kBLgXovjAf3k9RrwsenqWv1/6bblS0Fv2akQOvRRScA2sx+ocmvOX\ncMzTTzWOiVUlcYpXcGDVEOZzHrZ0EeyBxPezzoyglNwVQ/BdP777eZi3trfgr/O2\noU0cKVuDY82jx1dlkrnjt3eaiRu5iFPiKyZJxClmcrZPtUNHf7gCWTyc/DI4AGdd\n3grPFbOWrzVrsN6F78gOFEa2QPqcoddMED6uHe4u2azuzKSafe7ByqQlLd4wA9o5\n/5Rdk+ZvAgMBAAECggEAFjRrodWU4TcS1oB78RAzZ0IQISDZoOEM/ODIzYLcqZyX\nZz2ymAbYs09+UCaa0pLftioQIc3s9FGbT7GseOPTvl69gtKZM9QwCeP3OnWK/pmz\nVkqrHv6aEGocJodIA7NMVqmU0Pfc0Jme5YHKTe0h4dyJmiURzXjVWHgywiHX4hnG\np8doeUogQdVYDZJPsB4hsCg9b/n2Q6hcPC/T3oWqkyn/3vNNPBVewKmd+ipyWxOY\nXK4ix1xMpeDKbX20vB3Fwb/G6o1TfkMySRlnOGzuUCGjjsE+VAc0xep7TwjdHJLk\n+9pwzVMn2O9THWCr3ulivXu1RBBIZeUv4ceAPVzzQQKBgQD0jnDHaeR2AUOfhqkL\n1nUypbt/dOPe06wGsrFzOcyMsQ/IQwsLTGOnVbDm9ueHumnhM7//E6hEt9RTspbc\n5MDVg8O9qhc9hNyevIhZ+6vg7knDfwUfjZdUwnwLMz2aSr3h4f9ab+uSeK6hUnxp\nMCgWSWcOj7TsZqqu5nPeZDRUGwKBgQDBL2M+jQL4tlZeqMKh9WrTNU0cXuSnFpVJ\nlrizld4dOxuQCfjDaul2F6qq1b5vBfAxOOZHf43ICrrx3QGVxO0N+GMsttjmIBe7\nawT+QBo3LeUyBRoi4PbExLx3obK6RGJ6x3+OMh74ibIkkIDCfBXmcghrQaleJmhO\nKanyPrlUPQKBgF4MBRz7AQvMcqf/jjTqNUnT6GYcmqEPf+FXiNxKBvq4ANy/w5iF\nuPEaCBzaKLHOo3cigpxif9xlYXcKf+/U3L9/m5/tsGBNHtbApCMOoMuwd5eB2oOG\n3QKQhEl+XBtg0OL0GVI7Jjm+xVFuuj9tcI0Zj1NPOoGK/eqi3z5QBLuvAoGAV8M8\ndfU/zVegoz5NtaA1mKAVWPcvL01OIvFLFaLXFjZ9DhHJppWSXCjiStvxuKRc+y+b\nRg4HjkJ5rVk22CBvhTI7c9vZa6pWvbkfupXKkxjRj8jLl97VnIy4Bi06ce6RQrAR\nHbtdYJHFkWDobfJLTLavZnKdC/2s0x2QbFHchg0CgYEAqgAo7NNUJlIBQtOXVpMk\nkG4xRQIqTJQql/8pZS9qp0QO3zr2Gadb50SX7cVoHch53VxsGd9c+eZjxyAbnB7n\nZd3uCfhSJdJLOGlnHBnuFHtHhZw9xDdSTCcKwinEq+nMI3wbax14CCm13Qwjq0uD\n7/pCkUALugIeWcWZ5Of6JYc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "twitchtts@splendid-petal-294719.iam.gserviceaccount.com",
+  "client_id": "103401849584079856775",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/twitchtts%40splendid-petal-294719.iam.gserviceaccount.com"
+}

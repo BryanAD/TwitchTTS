@@ -1,0 +1,10 @@
+Twitch ID (lowercase):
+bigboohbahs
+OAUTH (Twitch TMI):
+oauth:o4whmgshdgrz85g0rczaz9rdcdwuyz
+Channel(lowercase):
+bigboohbahs
+Access token:
+1awzu3vv8pi8j24cdwuo4b4t865810
+ChannelID:
+45374970

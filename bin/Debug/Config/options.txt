@@ -1,0 +1,24 @@
+Set TTS Voice:
+Microsoft David Desktop
+Set Message Connector:
+said
+Maximum allowed Characters, 0 for no limit:
+100
+Replace swear word with:
+beep
+Say this, if long Sentence:
+to be continued
+GCP TTS? (true, wavenet, standard, false)
+true
+Default GCP Voice: (Select from voicelist.txt, random, random-pc-language:)
+Random-pc-language
+Bound Reward Name:
+
+Read Names?:
+false
+Google Speaking Speed:
+2
+Google Speaking Pitch:
+10
+Whitelist only?:
+false
